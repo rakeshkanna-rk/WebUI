@@ -4,10 +4,10 @@
 
 ## Categories
 
-- Search Bars
-- Loading Animations
-- Cards
-- Buttons
+- [Search Bars](Components/Search%20Bar/)
+- [Loading Animations](Components/Loading%20Animation)
+- [Cards](Components/Cards)
+- [Buttons](Components/Buttons)
 
 
 ### Contributions
