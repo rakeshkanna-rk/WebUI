@@ -8,6 +8,7 @@
 - [Loading Animations](Components/Loading%20Animation)
 - [Cards](Components/Cards)
 - [Buttons](Components/Buttons)
+- [Forms](Components/Forms)
 
 
 ### Contributions
